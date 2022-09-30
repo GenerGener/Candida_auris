@@ -14,12 +14,14 @@ Supplemental information on *Candida auris* reference genome patches, current st
 [Clade III vs. Clade V](https://ncbi.nlm.nih.gov/genome/cgv/browse/GCA_016772215.1/GCA_016809505.1/21275/498019#)\
 [Clade IV vs. Clade V](https://ncbi.nlm.nih.gov/genome/cgv/browse/GCA_016772155.1/GCA_016809505.1/21285/498019#)
 
+# Acknowledgements
+
+Thanks to C. auris working group made up of CDC MDB, State and local PHLs, and the folks at Theiagen. \
+
 Special thanks to the development team (Sanjida Rangwala, Joel Virothaisakun, and Valerie Schneider) at NCBI working on \
 the Comparative Genome Viewer (CGV) (https://ncbi.nlm.nih.gov/genome/cgv). CGV was developed as part of the NIH Comparative \
 Genomics Resource (CGR), a National Library of Medicine project to establish an ecosystem to facilitate reliable comparative \
-genomics analyses for all eukaryotic organisms.
-
-# Acknowledgements
+genomics analyses for all eukaryotic organisms.\
 
 **Funding:** \
 This work was supported by Cooperative Agreement Number NU60OE000104-02 funded by the Centers for Disease Control \
@@ -29,4 +31,4 @@ authors and do not necessarily represent the official views of the Centers for D
 Association of Public Health Laboratories. 
 
 **Conflicts of interest statement:** \
-ARG received poster bursaries from Oxford Nanopore Technologies (UK) in 2019. ARG is on the editorial board of *AIDS*.
+ARG received poster bursaries from Oxford Nanopore Technologies (UK) in 2019. ARG is on the editorial board of *AIDS*.\
