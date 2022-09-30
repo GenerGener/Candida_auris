@@ -18,3 +18,15 @@ Special thanks to the development team (Sanjida Rangwala, Joel Virothaisakun, an
 the Comparative Genome Viewer (CGV) (https://ncbi.nlm.nih.gov/genome/cgv). CGV was developed as part of the NIH Comparative \
 Genomics Resource (CGR), a National Library of Medicine project to establish an ecosystem to facilitate reliable comparative \
 genomics analyses for all eukaryotic organisms.
+
+# Acknowledgements
+
+**Funding:** \
+This work was supported by Cooperative Agreement Number NU60OE000104-02 funded by the Centers for Disease Control \
+and Prevention through the Association of Public Health Laboratories, and US CDC Epidemiology and Laboratory Capacity (ELC) \
+for Infectious Diseases grant (6 NU50CK000498) to Los Angeles County. Its contents are solely the responsibility of the \
+authors and do not necessarily represent the official views of the Centers for Disease Control and Prevention or the \
+Association of Public Health Laboratories. 
+
+**Conflicts of interest statement:** \
+ARG received poster bursaries from Oxford Nanopore Technologies (UK) in 2019. ARG is on the editorial board of *AIDS*.
