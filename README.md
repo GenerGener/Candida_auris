@@ -1,8 +1,11 @@
 # Candida_auris: Supplemental information on *Candida auris* reference genome patches, current state-of-the-art and best-practice recommendations
 
-If referencing this resource, please cite:
-(1) Alejandro R. Gener and Peera Hemarajata. "Status of public Candida auris whole genome assemblies." American Society of Microbiology Conference on Rapid Applied Microbial Next-Generation Sequencing and Bioinformatic Pipelines. Baltimore, Maryland. 16-19 October 2022. 
-(2) Alejandro R. Gener. "Supplemental information on *Candida auris* reference genome patches, current state-of-the-art and best-practice recommendations." 16 Occtober 2022. https://github.com/GenerGener/Candida_auris
+If referencing this resource, please cite:\
+(1) Alejandro R. Gener and Peera Hemarajata. "Status of public Candida auris whole genome assemblies." American Society \
+of Microbiology Conference on Rapid Applied Microbial Next-Generation Sequencing and Bioinformatic Pipelines. Baltimore, \
+Maryland. 16-19 October 2022.
+(2) Alejandro R. Gener. "Supplemental information on *Candida auris* reference genome patches, current state-of-the-art \
+and best-practice recommendations." 16 Occtober 2022. https://github.com/GenerGener/Candida_auris.
 
 # *Candida auris* exhibits high structural variability between clades
 
