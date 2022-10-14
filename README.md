@@ -17,7 +17,7 @@ and best-practice recommendations." 16 Occtober 2022. https://github.com/GenerGe
 | ![B11220 mitochondrial reads]
 (https://github.com/GenerGener/Candida_auris/blob/ba3a672e335aabe750ff806937b329590cc6175f/B11220_clade2_SAMN05379608%200.51f.png) |
 |-|
-test
+***test***
 
 # *Candida auris* exhibits high structural variability between clades
 
