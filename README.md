@@ -22,20 +22,27 @@ TODO: cite paper about B8441 MT..
 |-|
 ***B11220 mitochondrial reads mapped to GenBank:MT849287.1***
 *C. auris* strain B11220 is the recommended Clade II reference genome. Its biosample is [SAMN05379608](https://www.ncbi.nlm.nih.gov/biosample/SAMN05379608/). Coverage plot emphasis set to allele frequency of 0.51f. This facilitates comparison between noisier long-read methods and more accurate short-read methods (Illumina, ILM). These experiments generated Oxford Nanopore (ONT) long reads. Note that the assemblies were originally made with PB and polished with ILM. The metadata in NCBI just mentions PB. These contigs were noted as "unpublished" as of 14 October 2022 in the genbank records for this project (e.g., [Nucleotide:CP043531.1](https://www.ncbi.nlm.nih.gov/nuccore/CP060339.1)).
+
 Note a COX1 deletion in Clade II supported by read data, not an intron as is reported in the B8441 paper and the associated annotation track.
 TODO: How does the Clade II paper treat the COX1 locus?
 
-| ![B11220 mitochondrial reads](https://github.com/GenerGener/Candida_auris/blob/ac0b5346724a785e74550fa67c233b0cbcdedb99/BB120378_clade3_SAMN13294188%200.51f%20.png) |
+| ![B120378 mitochondrial reads](https://github.com/GenerGener/Candida_auris/blob/ac0b5346724a785e74550fa67c233b0cbcdedb99/BB120378_clade3_SAMN13294188%200.51f%20.png) |
 |-|
-***test***
+***B120378 mitochondrial reads mapped to GenBank:MT849287.1***
+*C. auris* strain B120378 is the recommended Clade III reference genome. Its biosample is [SAMN13294188](https://www.ncbi.nlm.nih.gov/biosample/SAMN13294188/). Coverage plot emphasis set to allele frequency of 0.51f. This facilitates comparison between noisier long-read methods and more accurate short-read methods (Illumina, ILM). These experiments generated Oxford Nanopore (ONT) long reads. Note that the assemblies were originally made with PB and polished with ILM. The metadata in NCBI just mentions PB. These contigs were noted as "unpublished" as of 14 October 2022 in the genbank records for this project (e.g., [Nucleotide:CP060339.1](https://www.ncbi.nlm.nih.gov/nuccore/CP060339.1)).
 
-| ![B120378 mitochondrial reads](https://github.com/GenerGener/Candida_auris/blob/52f5753b66a8e807f4596799a743ae1cb3f09f70/BB12342_clade4_SAMN09111895%200.51f.png) |
+| ![B12342 mitochondrial reads](https://github.com/GenerGener/Candida_auris/blob/52f5753b66a8e807f4596799a743ae1cb3f09f70/BB12342_clade4_SAMN09111895%200.51f.png) |
 |-|
-***test***
+***B12342 mitochondrial reads mapped to GenBank:MT849287.1***
+*C. auris* strain B12342 is the recommended Clade IV reference genome. Its biosample is [SAMN09111895](https://www.ncbi.nlm.nih.gov/biosample/SAMN09111895/). Coverage plot emphasis set to allele frequency of 0.51f. This facilitates comparison between noisier long-read methods and more accurate short-read methods (Illumina, ILM). These experiments generated Oxford Nanopore (ONT) long reads. Note that the assemblies were originally made with PB and polished with ILM. The metadata in NCBI just mentions PB. These contigs were noted as "unpublished" as of 14 October 2022 in the genbank records for this project (e.g., [Nucleotide:CP060346.1](https://www.ncbi.nlm.nih.gov/nuccore/CP060346.1)).
 
 | ![IFRC2087 mitochondrial reads](https://github.com/GenerGener/Candida_auris/blob/238da38607e20125e13e4bd31af9ab29c9004ce6/IFRC2087_clade5_SAMN11570381%200.51f.png) |
 |-|
 ***test***
+***IFRC2087 mitochondrial reads mapped to GenBank:MT849287.1***
+*C. auris* strain IFRC2087 is the recommended Clade V reference genome. Its biosample is [SAMN11570381](https://www.ncbi.nlm.nih.gov/biosample/SAMN11570381/). Coverage plot emphasis set to allele frequency of 0.51f. This facilitates comparison between noisier long-read methods and more accurate short-read methods (Illumina, ILM). These experiments generated Oxford Nanopore (ONT) long reads. Note that the assemblies were originally made with PB and polished with ILM. The metadata in NCBI just mentions PB. These contigs were noted as "unpublished" as of 14 October 2022 in the genbank records for this project (e.g., [Nucleotide:CP050673.1](https://www.ncbi.nlm.nih.gov/nuccore/CP050673.1)).
+
+TODO: read feature
 
 # *Candida auris* exhibits high structural variability between clades
 
