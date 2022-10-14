@@ -1,4 +1,4 @@
-# Thanks for stoping by our poster and repo!
+# Thanks for stopping by our poster and repo!
 
 
 
