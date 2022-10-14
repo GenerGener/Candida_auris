@@ -96,7 +96,10 @@ CGV sessions:\
 
 Clade-specific reference genomes
 
-![Table 1]()
+|![Table 1](https://github.com/GenerGener/Candida_auris/blob/main/ASM%20NGS%20Table%201.png) |
+|-|
+**Table 1: Five Recommended C. auris Clade-Specific Reference Genome Assemblies.**
+*Selected by CDC. **Selected by ARG during this study. ***Reads from respective BioProjects were mapped to B8441 mitochondrial reference genome assembly (GenBank: MT849287.1) for consensusing.
 
 # Acknowledgements
 
