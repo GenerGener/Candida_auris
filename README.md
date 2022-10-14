@@ -29,7 +29,7 @@ and best-practice recommendations." 16 Occtober 2022. https://github.com/GenerGe
 
 # Acknowledgements
 
-Thanks to C. auris working group made up of CDC MDB, State and local PHLs, and the folks at Theiagen.
+Thanks to *C. auris* working group made up of CDC MDB, State and local PHLs, and the folks at Theiagen.
 
 Special thanks to the development team (Sanjida Rangwala, Joel Virothaisakun, and Valerie Schneider) at NCBI working on 
 the Comparative Genome Viewer (CGV) (https://ncbi.nlm.nih.gov/genome/cgv). CGV was developed as part of the NIH Comparative 
