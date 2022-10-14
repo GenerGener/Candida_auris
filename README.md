@@ -7,11 +7,11 @@ Maryland. 16-19 October 2022.\
 (2) Alejandro R. Gener. "Supplemental information on *Candida auris* reference genome patches, current state-of-the-art, 
 and best-practice recommendations." 16 Occtober 2022. https://github.com/GenerGener/Candida_auris.
 
-# Insights from mitochondrial mapping #
+# Insights from mitochondrial mapping
 
 ![B11205 mitochondrial reads](https://github.com/GenerGener/Candida_auris/blob/929480bfb93d163b4ab38c94c9cba3e6def0f1ae/B11205_clade1_SAMN05379594%200.51f.png)
 ***B11205 mitochondrial reads mapped to GenBank:MT849287.1***\
-*C. auris* strain B11205 is the reecommended Clade I reference genome. It's biosample is SAMN05379594. Coverage plot emphasis set to allele freequeency of 0.51f. This facilitates comparison between noisier long-read methods and more accurate short-read methods (Illumina, ILM). PacBio (PB) CCS were much more common in these datasets than Oxford Nanopore (ONT). Note that the assemblies were originally made with PB and polished with ILM. The metadata in NCBI just mentions PB. These contigs were noted as "unpublished" as of 14 October 2022 in the genbank records for this project (e.g., Nucleotide:CP060339.1)
+*C. auris* strain B11205 is the recommended Clade I reference genome. It's biosample is SAMN05379594. Coverage plot emphasis set to allele freequeency of 0.51f. This facilitates comparison between noisier long-read methods and more accurate short-read methods (Illumina, ILM). PacBio (PB) CCS were much more common in these datasets than Oxford Nanopore (ONT). Note that the assemblies were originally made with PB and polished with ILM. The metadata in NCBI just mentions PB. These contigs were noted as "unpublished" as of 14 October 2022 in the genbank records for this project (e.g., Nucleotide:CP060339.1)
 
 # *Candida auris* exhibits high structural variability between clades
 
@@ -35,12 +35,12 @@ the Comparative Genome Viewer (CGV) (https://ncbi.nlm.nih.gov/genome/cgv). CGV w
 Genomics Resource (CGR), a National Library of Medicine project to establish an ecosystem to facilitate reliable comparative 
 genomics analyses for all eukaryotic organisms.
 
-**Funding:** 
+# Funding 
 This work was supported by Cooperative Agreement Number NU60OE000104-02 funded by the Centers for Disease Control 
 and Prevention through the Association of Public Health Laboratories, and US CDC Epidemiology and Laboratory Capacity (ELC) 
 for Infectious Diseases grant (6 NU50CK000498) to Los Angeles County. Its contents are solely the responsibility of the 
 authors and do not necessarily represent the official views of the Centers for Disease Control and Prevention or the 
 Association of Public Health Laboratories. 
 
-**Conflicts of interest statement:**
+# Conflicts of interest statement
 ARG received poster bursaries from Oxford Nanopore Technologies (UK) in 2019. ARG is on the editorial board of *AIDS*
