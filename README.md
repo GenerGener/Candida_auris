@@ -21,10 +21,8 @@ TODO: cite paper about B8441 MT..
 | ![B11220 mitochondrial reads](https://github.com/GenerGener/Candida_auris/blob/ba3a672e335aabe750ff806937b329590cc6175f/B11220_clade2_SAMN05379608%200.51f.png) |
 |-|
 ***B11220 mitochondrial reads mapped to GenBank:MT849287.1***
-*C. auris* strain B11220 is the recommended Clade II reference genome. Its biosample is [SAMN05379608](https://www.ncbi.nlm.nih.gov/biosample/SAMN05379608/). Coverage plot emphasis set to allele frequency of 0.51f. This facilitates comparison between noisier long-read methods and more accurate short-read methods (Illumina, ILM). These experiments generated Oxford Nanopore (ONT) long reads. Note that the assemblies were originally made with PB and polished with ILM. The metadata in NCBI just mentions PB. These contigs were noted as "unpublished" as of 14 October 2022 in the genbank records for this project (e.g., [Nucleotide:CP043531.1](https://www.ncbi.nlm.nih.gov/nuccore/CP060339.1)). /
-/
-Note a COX1 deletion in Clade II supported by read data, not an intron as is reported in the B8441 paper and the associated annotation track./
-/
+*C. auris* strain B11220 is the recommended Clade II reference genome. Its biosample is [SAMN05379608](https://www.ncbi.nlm.nih.gov/biosample/SAMN05379608/). Coverage plot emphasis set to allele frequency of 0.51f. This facilitates comparison between noisier long-read methods and more accurate short-read methods (Illumina, ILM). These experiments generated Oxford Nanopore (ONT) long reads. Note that the assemblies were originally made with PB and polished with ILM. The metadata in NCBI just mentions PB. These contigs were noted as "unpublished" as of 14 October 2022 in the genbank records for this project (e.g., [Nucleotide:CP043531.1](https://www.ncbi.nlm.nih.gov/nuccore/CP060339.1)).
+Note a COX1 deletion in Clade II supported by read data, not an intron as is reported in the B8441 paper and the associated annotation track.
 TODO: How does the Clade II paper treat the COX1 locus?
 
 | ![B11220 mitochondrial reads](https://github.com/GenerGener/Candida_auris/blob/ac0b5346724a785e74550fa67c233b0cbcdedb99/BB120378_clade3_SAMN13294188%200.51f%20.png) |
