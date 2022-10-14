@@ -9,13 +9,13 @@ and best-practice recommendations." 16 Occtober 2022. https://github.com/GenerGe
 
 # State-of-the-art *Candida auris* NCBI genome assembly stats
 
-[Figure 1](https://github.com/GenerGener/Candida_auris/blob/main/ASM%20NGS%20Figure%201.png)
+![Figure 1](https://github.com/GenerGener/Candida_auris/blob/main/ASM%20NGS%20Figure%201.png)
 
 # Insights from mitochondrial mapping
 
 ## Method
 
-[]()
+![Figure 2](https://github.com/GenerGener/Candida_auris/blob/0105e68d5d53fa9429399d72c9891c8077605d8e/ASM%20NGS%20Figure%202.png)
 
 TODO: explain that most reference genomes' assemblies were made without mitochondria. However, despite *C. auris* being haploid compared to other *Candida*, each are eukaryotic and as such should have mitochondria.
 
