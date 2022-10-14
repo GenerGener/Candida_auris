@@ -20,7 +20,7 @@ Coloring of categories same for A-D: contig =  blue; "complete" genome = yellow;
 
 | ![Figure 2](https://github.com/GenerGener/Candida_auris/blob/0105e68d5d53fa9429399d72c9891c8077605d8e/ASM%20NGS%20Figure%202.png) |
 |-|
-Figure 2: C. auris mitogenome assembly
+**Figure 2: C. auris mitogenome assembly**
 1: "Complete" genome assemblies with reads were evaluated. None with reads had mitogenome chromosomes.  
 2:  Reads were mapped onto B8441 mitogenome (GenBank:MT849287.1). Minimap2 was implemented with default settings for either PacBio (PB), Illumina (ILM), or Oxford Nanopore (ONT).
 3: Sample alignments were evaluated for quality, and samples with discordant variants were set aside.
