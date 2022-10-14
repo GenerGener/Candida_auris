@@ -18,6 +18,10 @@ and best-practice recommendations." 16 Occtober 2022. https://github.com/GenerGe
 |-|
 ***test***
 
+https://github.com/GenerGener/Candida_auris/blob/ac0b5346724a785e74550fa67c233b0cbcdedb99/BB120378_clade3_SAMN13294188%200.51f%20.png
+
+
+
 # *Candida auris* exhibits high structural variability between clades
 
 [Clade I vs. Clade II as in poster](https://ncbi.nlm.nih.gov/genome/cgv/browse/GCA_003013715.2/GCA_016772135.1/21335/498019#)\
