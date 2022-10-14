@@ -7,6 +7,10 @@ Maryland. 16-19 October 2022.\
 (2) Alejandro R. Gener. "Supplemental information on *Candida auris* reference genome patches, current state-of-the-art, 
 and best-practice recommendations." 16 Occtober 2022. https://github.com/GenerGener/Candida_auris.
 
+# State-of-the-art *Candida auris* NCBI genome assembly stats
+
+
+
 # Insights from mitochondrial mapping
 
 TODO: explain that most reference genomes' assemblies were made without mitochondria. However, despite *C. auris* being haploid compared to other *Candida*, each are eukaryotic and as such should have mitochondria.
