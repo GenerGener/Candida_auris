@@ -89,6 +89,8 @@ CGV sessions:\
 [Clade III vs. Clade V](https://ncbi.nlm.nih.gov/genome/cgv/browse/GCA_016772215.1/GCA_016809505.1/21275/498019#)\
 [Clade IV vs. Clade V](https://ncbi.nlm.nih.gov/genome/cgv/browse/GCA_016772155.1/GCA_016809505.1/21285/498019#)
 
+# Recommendations
+
 # Acknowledgements
 
 Thanks to *C. auris* working group made up of CDC MDB, State and local PHLs, and the folks at Theiagen.
