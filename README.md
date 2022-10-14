@@ -20,6 +20,8 @@ and best-practice recommendations." 16 Occtober 2022. https://github.com/GenerGe
 
 https://github.com/GenerGener/Candida_auris/blob/ac0b5346724a785e74550fa67c233b0cbcdedb99/BB120378_clade3_SAMN13294188%200.51f%20.png
 
+https://github.com/GenerGener/Candida_auris/blob/52f5753b66a8e807f4596799a743ae1cb3f09f70/BB12342_clade4_SAMN09111895%200.51f.png
+
 
 
 # *Candida auris* exhibits high structural variability between clades
