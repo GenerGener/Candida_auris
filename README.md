@@ -96,7 +96,8 @@ CGV sessions:\
 
 Clade-specific reference genomes
 
-|head1|head2|
+| head1 |head2|
+|-------|-----|
 |stuff1|stuff2|
 
 | Clade          | I	          | II	          | III	          | IV	          | V	          |
