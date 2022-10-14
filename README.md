@@ -38,7 +38,6 @@ TODO: How does the Clade II paper treat the COX1 locus?
 
 | ![IFRC2087 mitochondrial reads](https://github.com/GenerGener/Candida_auris/blob/238da38607e20125e13e4bd31af9ab29c9004ce6/IFRC2087_clade5_SAMN11570381%200.51f.png) |
 |-|
-***test***
 ***IFRC2087 mitochondrial reads mapped to GenBank:MT849287.1***
 *C. auris* strain IFRC2087 is the recommended Clade V reference genome. Its biosample is [SAMN11570381](https://www.ncbi.nlm.nih.gov/biosample/SAMN11570381/). Coverage plot emphasis set to allele frequency of 0.51f. This facilitates comparison between noisier long-read methods and more accurate short-read methods (Illumina, ILM). These experiments generated Oxford Nanopore (ONT) long reads. Note that the assemblies were originally made with PB and polished with ILM. The metadata in NCBI just mentions PB. These contigs were noted as "unpublished" as of 14 October 2022 in the genbank records for this project (e.g., [Nucleotide:CP050673.1](https://www.ncbi.nlm.nih.gov/nuccore/CP050673.1)).
 
