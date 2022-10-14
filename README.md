@@ -9,9 +9,11 @@ and best-practice recommendations." 16 Occtober 2022. https://github.com/GenerGe
 
 # Insights from mitochondrial mapping
 
+<table><tr><td>
 ![B11205 mitochondrial reads](https://github.com/GenerGener/Candida_auris/blob/929480bfb93d163b4ab38c94c9cba3e6def0f1ae/B11205_clade1_SAMN05379594%200.51f.png)
 ***B11205 mitochondrial reads mapped to GenBank:MT849287.1***\
 *C. auris* strain B11205 is the recommended Clade I reference genome. It's biosample is SAMN05379594. Coverage plot emphasis set to allele freequeency of 0.51f. This facilitates comparison between noisier long-read methods and more accurate short-read methods (Illumina, ILM). PacBio (PB) CCS were much more common in these datasets than Oxford Nanopore (ONT). Note that the assemblies were originally made with PB and polished with ILM. The metadata in NCBI just mentions PB. These contigs were noted as "unpublished" as of 14 October 2022 in the genbank records for this project (e.g., Nucleotide:CP060339.1)
+</td></tr></table>
 
 # *Candida auris* exhibits high structural variability between clades
 
