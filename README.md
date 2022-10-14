@@ -96,8 +96,8 @@ CGV sessions:\
 
 Clade-specific reference genomes
 
-|Clade	|I	|II	|III	|IV	|V	|
-|-|
+|Clade          |I	          |II	          |III	          |IV	          |V	          |
+|---|
 Strain	B11205*	B11220*	B12037**	B12342**	IFRC2087*
 GenBank Assembly Accession	GCA_016772135.1	GCA_003013715.2	GCA_016772215.1	GCA_016772155.1	GCA_016809505.1
  Assembly Name	ASM1677213v1	ASM301371v2	ASM1677221v1	ASM1677215v1	ASM1680950v1
