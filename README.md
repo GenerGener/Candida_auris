@@ -9,7 +9,10 @@ and best-practice recommendations." 16 Occtober 2022. https://github.com/GenerGe
 
 # State-of-the-art *Candida auris* NCBI genome assembly stats
 
-![Figure 1](https://github.com/GenerGener/Candida_auris/blob/main/ASM%20NGS%20Figure%201.png)
+![Figure 1](https://github.com/GenerGener/Candida_auris/blob/main/ASM%20NGS%20Figure%201.png) |
+|-|
+**Figure 1: Candida auris genome assembly stats.** 
+Coloring of categories same for A-D: contig =  blue; "complete" genome = yellow; chromosome = gray; scaffold = orange. A: Most genomes available in GenBank were Scaffold or Complete Genomes. B: Assembly lengths approximated 12.5 Mb, likely because of reference-guided methods. C: Illumina-only assemblies were over-represented in the Contig assemblies. D: Complete assemblies were often PacBio + Illumina. Sample metadata in NCBI varied.
 
 # Insights from mitochondrial mapping
 
