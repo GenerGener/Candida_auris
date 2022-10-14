@@ -77,7 +77,7 @@ TODO: read feature
 
 **Figure 4: Diffential synteny between Candida auris Clade I and other clade-specific reference genomes.** (Poster Top: Clade I vs. Bottom: Clade II, III, IV, and V.) Use of  a single reference may have unintended consequences for structurally variable species. Chromosome numbering by size or sequence length (e.g., Chromosome 1 = longest ) was not informative because chromosomes could have distinct gene content. Viewed with Comparative Genome Viewer (CGV).
 
-CGV sessions:
+CGV sessions:\
 [Clade I vs. Clade II as in poster](https://ncbi.nlm.nih.gov/genome/cgv/browse/GCA_003013715.2/GCA_016772135.1/21335/498019#)\
 [Clade I vs. Clade III as in poster](https://ncbi.nlm.nih.gov/genome/cgv/browse/GCA_016772135.1/GCA_016772215.1/21295/498019#)\
 [Clade I vs. Clade IV as in poster](https://ncbi.nlm.nih.gov/genome/cgv/browse/GCA_016772135.1/GCA_016772155.1/21315/498019#)\
