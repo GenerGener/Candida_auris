@@ -9,6 +9,10 @@ and best-practice recommendations." 16 Occtober 2022. https://github.com/GenerGe
 
 # Insights from mitochondrial mapping
 
+TODO: explain that most reference genomes' assemblies were made without mitochondria. However, despite *C. auris* being haploid compared to other *Candida*, each are eukaryotic and as such should have mitochondria.
+
+TODO: cite paper about B8441 MT..
+
 | ![B11205 mitochondrial reads](https://github.com/GenerGener/Candida_auris/blob/929480bfb93d163b4ab38c94c9cba3e6def0f1ae/B11205_clade1_SAMN05379594%200.51f.png) |
 |-|
 ***B11205 mitochondrial reads mapped to GenBank:MT849287.1***
@@ -18,11 +22,21 @@ and best-practice recommendations." 16 Occtober 2022. https://github.com/GenerGe
 |-|
 ***test***
 
-https://github.com/GenerGener/Candida_auris/blob/ac0b5346724a785e74550fa67c233b0cbcdedb99/BB120378_clade3_SAMN13294188%200.51f%20.png
+Note a COX1 deletion in Clade II supported by read data, not an intron as is reported in the B8441 paper and the associated annotation track. 
 
-https://github.com/GenerGener/Candida_auris/blob/52f5753b66a8e807f4596799a743ae1cb3f09f70/BB12342_clade4_SAMN09111895%200.51f.png
+TODO: How does the Clade II paper treat the COX1 locus?
 
+| ![B11220 mitochondrial reads](https://github.com/GenerGener/Candida_auris/blob/ac0b5346724a785e74550fa67c233b0cbcdedb99/BB120378_clade3_SAMN13294188%200.51f%20.png) |
+|-|
+***test***
 
+| ![B120378 mitochondrial reads](https://github.com/GenerGener/Candida_auris/blob/52f5753b66a8e807f4596799a743ae1cb3f09f70/BB12342_clade4_SAMN09111895%200.51f.png) |
+|-|
+***test***
+
+| ![IFRC2087 mitochondrial reads](https://github.com/GenerGener/Candida_auris/blob/238da38607e20125e13e4bd31af9ab29c9004ce6/IFRC2087_clade5_SAMN11570381%200.51f.png) |
+|-|
+***test***
 
 # *Candida auris* exhibits high structural variability between clades
 
