@@ -22,6 +22,10 @@ D: Complete assemblies were often PacBio + Illumina. Sample metadata in NCBI var
 
 ## Method
 
+TODO: explain that most reference genomes' assemblies were made without mitochondria. However, despite *C. auris* being haploid compared to other *Candida*, each are eukaryotic and as such should have mitochondria.
+
+TODO: cite paper about B8441 MT..
+
 | ![Figure 2](https://github.com/GenerGener/Candida_auris/blob/0105e68d5d53fa9429399d72c9891c8077605d8e/ASM%20NGS%20Figure%202.png) |
 |-|
 **Figure 2: C. auris mitogenome assembly**
@@ -33,10 +37,6 @@ D: Complete assemblies were often PacBio + Illumina. Sample metadata in NCBI var
 6: Final asseemblies were annotated in SnapGene based on MT849287.1.
 7: Reference set will be made available in public databases.
 
-
-TODO: explain that most reference genomes' assemblies were made without mitochondria. However, despite *C. auris* being haploid compared to other *Candida*, each are eukaryotic and as such should have mitochondria.
-
-TODO: cite paper about B8441 MT..
 
 ## Results
 
