@@ -94,6 +94,22 @@ CGV sessions:\
 
 # Recommendations
 
+Clade-specific reference genomes
+
+| Clade	| I	| II	| III	| IV | V |
+Strain	B11205*	B11220*	B12037**	B12342**	IFRC2087*
+GenBank Assembly Accession	GCA_016772135.1	GCA_003013715.2	GCA_016772215.1	GCA_016772155.1	GCA_016809505.1
+ Assembly Name	ASM1677213v1	ASM301371v2	ASM1677221v1	ASM1677215v1	ASM1680950v1
+BioProject Accession	PRJNA328792				PRJNA541007
+Longest Chromosome (bases)	4,182,400	3,148,135	3,525,697	4,200,574	4,176,687
+Second Longest Chromosome (bases)	2,308,870	2,554,418	2,312,529	2,321,351	2,355,645
+Third-Longest Chromosome (bases)	1,684,445	2,336,890	1,682,200	1,686,783	1,712,072
+Fourth-Longest Chromosome (bases)	1,442,884	1,318,327	1,399,739	1,429,971	1,425,924
+Fifth-Longest Chromosome (bases)	1,028,427	1,007,026	1,390,097	997,114	1,000,743
+Sixth-Longest Chromosome (bases)	978,324	1,004,684	1,042,317	984,263	952,175
+Seventh-Longest Chromosome (bases)	780,756	880,293	945,735	784,092	838,280
+Calculated nuclear genome size (bases)	12,406,106	12,249,773	12,298,314	12,404,148	12,461,526
+
 # Acknowledgements
 
 Thanks to *C. auris* working group made up of CDC MDB, State and local PHLs, and the folks at Theiagen.
