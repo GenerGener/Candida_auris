@@ -1,3 +1,7 @@
+# Thanks for stoping by our poster and repo!
+
+
+
 # Candida_auris: Supplemental information on *Candida auris* reference genome patches, current state-of-the-art, and best-practice recommendations
 
 If referencing this resource, please cite:\
@@ -6,6 +10,14 @@ of Microbiology Conference on Rapid Applied Microbial Next-Generation Sequencing
 Maryland. 16-19 October 2022.\
 (2) Alejandro R. Gener. "Supplemental information on *Candida auris* reference genome patches, current state-of-the-art, 
 and best-practice recommendations." 16 Occtober 2022. https://github.com/GenerGener/Candida_auris.
+
+# Background
+Candida auris is an opportunistic fungal pathogen discovered in 2009 (Satoh  et al. 2009). Infection can range from assymptomatic to invasive candidemia. It is often highly drug-resistant. Five clades (I-V) are currently recognized. One species-level single linear reference was used:
+-Initially from strain B8441.
+-When CDC Mycotics Disease Branch (MDB) started developing a variant calling workflow called MycoSNP, another Clade I B11221 reference was chosen.
+-Clade I was chosen at the time because it was thought to be the predomenant form in US.
+-Current reference is strain B11205 (Clade I)
+However, state PHLs noticed non-Clade I case clusters. A high-quality clade reference set was needed for surveillance. Quality control standards were lacking for reference and production genomes.
 
 # State-of-the-art *Candida auris* NCBI genome assembly stats
 
