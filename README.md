@@ -13,10 +13,10 @@ and best-practice recommendations." 16 Occtober 2022. https://github.com/GenerGe
 
 # Background
 Candida auris is an opportunistic fungal pathogen discovered in 2009 (Satoh  et al. 2009). Infection can range from assymptomatic to invasive candidemia. It is often highly drug-resistant. Five clades (I-V) are currently recognized. One species-level single linear reference was used:
--Initially from strain B8441.
--When CDC Mycotics Disease Branch (MDB) started developing a variant calling workflow called MycoSNP, another Clade I B11221 reference was chosen.
--Clade I was chosen at the time because it was thought to be the predomenant form in US.
--Current reference is strain B11205 (Clade I)
+- Initially from strain B8441.
+- When CDC Mycotics Disease Branch (MDB) started developing a variant calling workflow called MycoSNP, another Clade I B11221 reference was chosen.
+- Clade I was chosen at the time because it was thought to be the predomenant form in US.
+- Current reference is strain B11205 (Clade I)
 However, state PHLs noticed non-Clade I case clusters. A high-quality clade reference set was needed for surveillance. Quality control standards were lacking for reference and production genomes.
 
 # State-of-the-art *Candida auris* NCBI genome assembly stats
