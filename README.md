@@ -105,8 +105,8 @@ for Infectious Diseases grant (6 NU50CK000498) to Los Angeles County. Its conten
 authors and do not necessarily represent the official views of the Centers for Disease Control and Prevention or the 
 Association of Public Health Laboratories. 
 
-# Conflicts of interest statement
-ARG received poster bursaries from Oxford Nanopore Technologies (UK) in 2019. ARG is on the editorial board of *AIDS*.
+# Conflict(s) of interest
+ARG received poster bursaries from Oxford Nanopore Technologies (UK) in 2019. ARG is on the editorial board of *AIDS*. No other conflicts.
 
 # Feedback
 Please submit feedback as an Issue.
