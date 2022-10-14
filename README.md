@@ -73,4 +73,7 @@ authors and do not necessarily represent the official views of the Centers for D
 Association of Public Health Laboratories. 
 
 # Conflicts of interest statement
-ARG received poster bursaries from Oxford Nanopore Technologies (UK) in 2019. ARG is on the editorial board of *AIDS*
+ARG received poster bursaries from Oxford Nanopore Technologies (UK) in 2019. ARG is on the editorial board of *AIDS*.
+
+# Feedback
+Please submit feedback as an Issue.
