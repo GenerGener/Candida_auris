@@ -16,10 +16,10 @@ and best-practice recommendations." 16 Occtober 2022. https://github.com/GenerGe
 
 # *Candida auris* exhibits high structural variability between clades
 
-[Clade I vs. Clade II](https://ncbi.nlm.nih.gov/genome/cgv/browse/GCA_003013715.2/GCA_016772135.1/21335/498019#)\
-[Clade I vs. Clade III](https://ncbi.nlm.nih.gov/genome/cgv/browse/GCA_016772135.1/GCA_016772215.1/21295/498019#)\
-[Clade I vs. Clade IV](https://ncbi.nlm.nih.gov/genome/cgv/browse/GCA_016772135.1/GCA_016772155.1/21315/498019#)\
-[Clade I vs. Clade V](https://ncbi.nlm.nih.gov/genome/cgv/browse/GCA_016772135.1/GCA_016809505.1/21345/498019#)\
+[Clade I vs. Clade II as in poster](https://ncbi.nlm.nih.gov/genome/cgv/browse/GCA_003013715.2/GCA_016772135.1/21335/498019#)\
+[Clade I vs. Clade III as in poster](https://ncbi.nlm.nih.gov/genome/cgv/browse/GCA_016772135.1/GCA_016772215.1/21295/498019#)\
+[Clade I vs. Clade IV as in poster](https://ncbi.nlm.nih.gov/genome/cgv/browse/GCA_016772135.1/GCA_016772155.1/21315/498019#)\
+[Clade I vs. Clade V as in poster](https://ncbi.nlm.nih.gov/genome/cgv/browse/GCA_016772135.1/GCA_016809505.1/21345/498019#)\
 [Clade II vs. Clade III](https://ncbi.nlm.nih.gov/genome/cgv/browse/GCA_003013715.2/GCA_016772215.1/21255/498019#)\
 [Clade II vs. Clade IV](https://ncbi.nlm.nih.gov/genome/cgv/browse/GCA_003013715.2/GCA_016772155.1/21325/498019#)\
 [Clade II vs. Clade V](https://ncbi.nlm.nih.gov/genome/cgv/browse/GCA_003013715.2/GCA_016809505.1/21265/498019#)\
