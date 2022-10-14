@@ -94,12 +94,17 @@ CGV sessions:\
 
 # Recommendations
 
-Clade-specific reference genomes
+## Clade-specific reference genomes
 
 |![Table 1](https://github.com/GenerGener/Candida_auris/blob/main/ASM%20NGS%20Table%201.png) |
 |-|
 **Table 1: Five Recommended C. auris Clade-Specific Reference Genome Assemblies.**
 *Selected by CDC. **Selected by ARG during this study. ***Reads from respective BioProjects were mapped to B8441 mitochondrial reference genome assembly (GenBank: MT849287.1) for consensusing.
+
+## Recommendations
+
+Conclusions: Sequencing methods have improved since C. auris was discovered. With the advent of HiFi PB and improved ONT, reference-level assemblies need not rely on short-reads for polishing. Assemblies must have reads for quality assurance. Assemblies without reads have limited utility to the global community. Production-level genomes such as reference-guided consensuses are not interchangeable with de novo and ideally long-read methods. Annotations remain a challenge for both reference and production genomes. Mitogenomes were previously neglected, and the scope of their diversity is unknown. They are small enough to visually inspect, and can in theory be used to support clade assignment (Sekizuka et al. 2019). Future work could determine the extent of inter- and intraclade mitochondrial variability. Reference-guided approaches should use references with mitochondrial chromosomes. The present work developed patches to the 5 recommended clade-specific reference genomes, and helped standardize the clade reference set. See the GitHub repo for additional recommendations and additional citations.
+
 
 # Acknowledgements
 
