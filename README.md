@@ -18,13 +18,26 @@ Coloring of categories same for A-D: contig =  blue; "complete" genome = yellow;
 
 ## Method
 
-![Figure 2](https://github.com/GenerGener/Candida_auris/blob/0105e68d5d53fa9429399d72c9891c8077605d8e/ASM%20NGS%20Figure%202.png)
+| ![Figure 2](https://github.com/GenerGener/Candida_auris/blob/0105e68d5d53fa9429399d72c9891c8077605d8e/ASM%20NGS%20Figure%202.png) |
+|-|
+Figure 2: C. auris mitogenome assembly
+1: "Complete" genome assemblies with reads were evaluated. None with reads had mitogenome chromosomes.  
+2:  Reads were mapped onto B8441 mitogenome (GenBank:MT849287.1). Minimap2 was implemented with default settings for either PacBio (PB), Illumina (ILM), or Oxford Nanopore (ONT).
+3: Sample alignments were evaluated for quality, and samples with discordant variants were set aside.
+4: Assemblies were made by consensusing guided by reference. 
+5: INDELs were curated manually.
+6: Final asseemblies were annotated in SnapGene based on MT849287.1.
+7: Reference set will be made available in public databases.
+
 
 TODO: explain that most reference genomes' assemblies were made without mitochondria. However, despite *C. auris* being haploid compared to other *Candida*, each are eukaryotic and as such should have mitochondria.
 
 TODO: cite paper about B8441 MT..
 
 ## Results
+
+**Figure 3: Coverage plots of runs passing QC.**
+(Expanded) Each clade's mitochondria is distinct relative to MT849287.1. Divergent allele frequencies > 0.51f highlighted in coverage tracks. Clade II and V samples have deletions in COX1, and Clade V has an additional deletion in COB. These are incorrectly annotated as introns in the B8441 assembly. This may have been due to consensusing which ignored INDELs and low-depth areas may have been called as "N" instead of as gaps "-". Visualized in IGV.
 
 | ![B11205 mitochondrial reads](https://github.com/GenerGener/Candida_auris/blob/929480bfb93d163b4ab38c94c9cba3e6def0f1ae/B11205_clade1_SAMN05379594%200.51f.png) |
 |-|
