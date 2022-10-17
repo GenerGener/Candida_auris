@@ -2,6 +2,11 @@
 
 This repo includes supplemental information on *Candida auris* current state-of-the-art, reference genome patches, and best-practice recommendations.
 
+![Poster PDF here](https://github.com/GenerGener/Candida_auris/blob/main/ASM%20NGS%20v12.pdf)
+**^Poster PDF here**
+
+Supplemental info/higher resolution figures below.
+
 If referencing this resource, please cite:\
 (1) Alejandro R. Gener and Peera Hemarajata. "Status of public Candida auris whole genome assemblies." American Society 
 of Microbiology Conference on Rapid Applied Microbial Next-Generation Sequencing and Bioinformatic Pipelines. Baltimore, 
