@@ -54,9 +54,11 @@ An alternative approach might be to convert reads mapping to MT849287.1 to fastq
 
 Assemblies are available here as .dna files. Assemblies as .dna may be viewed for free with [SnapGene](https://www.snapgene.com). Notable changes to annotations include correcting COX1 and COB introns for the Clade I reference and for other mitochondrial assemblies. These are not introns. They are likely artifacts from interpretting sequencing errors. They are likely deletions in Clade II and V strains. The extent of these deletions has yet to be evaluated, possibly in part to lack of including mitochondrial assemblies in "complete" genomes.
 
-To annotate assemblies, the B8441 mitochondrial assembly GenBank:MT849287.1 was downloaded as a genbank file and openned with SnapGene (version 6.1.2 HEAD-26640). A new .dna file was created for the consensus called from mapping Illumina reads from SRA to GenBank:MT849287.1 with minimap2 (v2.24-r1122) and calling consensus with a simple script using samtools (v1.12) and bcftools (v1.14-58-g310cd8c). The above is simple and open-source, but does not take into account structural variation (e.g., INDELS). So, these assemblies were corrected manually by comparing their alignments with IGV.
+To annotate assemblies, the B8441 mitochondrial assembly GenBank:MT849287.1 was downloaded as a genbank file and openned with SnapGene (version 6.1.2 HEAD-26640). A new .dna file was created for the consensus called from mapping Illumina reads from SRA to GenBank:MT849287.1 with minimap2 (v2.24-r1122) and calling consensus with a simple script using samtools (v1.12) and bcftools (v1.14-58-g310cd8c). The above is simple and open-source, but does not take into account structural variation (e.g., INDELS). So, these assemblies were corrected manually by comparing their alignments with IGV. See Supplemental figure for example.
 
-![Feature annotation of Clade I reference genome mitochondria.](https://github.com/GenerGener/Candida_auris/blob/main/Candida_auris_Clade_1_mitochondria_draft_v3%20Map.png)
+| ![Feature annotation of Clade I reference genome mitochondria.](https://github.com/GenerGener/Candida_auris/blob/main/Candida_auris_Clade_1_mitochondria_draft_v3%20Map.png) |
+|-|
+*Supplemental figure: Feature annotation of Clade I reference genome mitochondria.*
 
 ## Results
 
