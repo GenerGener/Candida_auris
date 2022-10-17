@@ -35,9 +35,7 @@ D: Complete assemblies were often PacBio + Illumina. Sample metadata in NCBI var
 
 ## Method
 
-TODO: explain that most reference genomes' assemblies were made without mitochondria. However, despite *C. auris* being haploid compared to other *Candida*, each are eukaryotic and as such should have mitochondria.
-
-TODO: cite paper about B8441 MT..
+Most reference genomes' assemblies were made without mitochondria. However, despite *C. auris* being haploid compared to other *Candida*, each are eukaryotic. As such, they should have mitochondria. The first paper to comment on the mitochondria of an early reference sequence was Misas et al. 2020. This was used as illustrated in Figure 2 for reference-guided assembly finished with manual curration.
 
 | ![Figure 2](https://github.com/GenerGener/Candida_auris/blob/0105e68d5d53fa9429399d72c9891c8077605d8e/ASM%20NGS%20Figure%202.png) |
 |-|
@@ -47,9 +45,16 @@ TODO: cite paper about B8441 MT..
 3: Sample alignments were evaluated for quality, and samples with discordant variants were set aside.
 4: Assemblies were made by consensusing guided by reference. 
 5: INDELs were curated manually.
-6: Final asseemblies were annotated in SnapGene based on MT849287.1.
+6: Final asseemblies were annotated in SnapGene based on MT849287.1 (Misas et al. 2020).
 7: Reference set will be made available in public databases.
 
+An alternative approach might be to convert reads mapping to MT849287.1 to fastq and feed these into a de novo assembly approach. This orthogonal method should yield similar results.
+
+# *Candida auris* mitochondrial assemblies.
+
+Assemblies are available here as .dna files. Assemblies as .dna may be viewed for free with [SnapGene](https://www.snapgene.com). Notable changes to annotations include correcting COX1 and COB introns for the Clade I reference and for other mitochondrial assemblies. These are not introns. They are likely artifacts from interpretting sequencing errors. They are likely deletions in Clade II and V strains. The extent of these deletions has yet to be evaluated, possibly in part to lack of including mitochondrial assemblies in "complete" genomes.
+
+To annotate assemblies, the B8441 mitochondrial assembly GenBank:MT849287.1 was downloaded as a genbank file and openned with SnapGene (version 6.1.2 HEAD-26640). A new .dna file was created for the consensus called from mapping Illumina reads from SRA to GenBank:MT849287.1 with minimap2 (v2.24-r1122) and calling consensus with a simple script using samtools (v1.12) and bcftools (v1.14-58-g310cd8c). The above is simple and open-source, but does not take into account structural variation (e.g., INDELS). So, these assemblies were corrected manually by comparing their alignments with IGV.
 
 ## Results
 
@@ -112,13 +117,16 @@ CGV sessions:\
 |![Table 1](https://github.com/GenerGener/Candida_auris/blob/main/ASM%20NGS%20Table%201.png) |
 |-|
 **Table 1: Five Recommended C. auris Clade-Specific Reference Genome Assemblies.**
-*Selected by CDC. **Selected by ARG during this study. ***Reads from respective BioProjects were mapped to B8441 mitochondrial reference genome assembly (GenBank: MT849287.1) for consensusing.
+*Selected by CDC. **Selected by ARG during this study. ***Reads from respective BioProjects were mapped to B8441 mitochondrial reference genome assembly (GenBank:MT849287.1) for consensusing.
 
 ## Recommendations
 
 Conclusions: Sequencing methods have improved since *C. auris* was discovered. With the advent of HiFi PB and improved ONT, reference-level assemblies need not rely on short-reads for polishing. Assemblies must have reads for quality assurance. Assemblies without reads have limited utility to the global community. Production-level genomes such as reference-guided consensuses are not interchangeable with de novo and ideally long-read methods. Annotations remain a challenge for both reference and production genomes. Mitogenomes were previously neglected, and the scope of their diversity is unknown. They are small enough to visually inspect, and can in theory be used to support clade assignment (Sekizuka et al. 2019). Future work could determine the extent of inter- and intraclade mitochondrial variability. Reference-guided approaches should use references with mitochondrial chromosomes. The present work developed patches to the 5 recommended clade-specific reference genomes, and helped standardize the clade reference set. 
 
 # References 
+
+Misas, Elizabeth, Nancy A. Chow, Oscar M. Gómez, José F. Muñoz, Juan G. McEwen, Anastasia P. Litvintseva, and Oliver K. Clay. 2020. “Mitochondrial Genome Sequences of the Emerging Fungal Pathogen Candida Auris.” Frontiers in Microbiology 11(October):1–12.
+* Important because established annotation for B8441 mitochondria. However, annotations had errors (e.g., introns).
 
 # Acknowledgements
 
