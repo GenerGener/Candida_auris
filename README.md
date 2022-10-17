@@ -1,7 +1,5 @@
 # Thanks for stopping by our poster and repo!
 
-
-
 # Candida_auris: Supplemental information on *Candida auris* reference genome patches, current state-of-the-art, and best-practice recommendations
 
 If referencing this resource, please cite:\
@@ -128,6 +126,8 @@ Conclusions: Sequencing methods have improved since *C. auris* was discovered. W
 
 # References 
 
+Satoh, Kazuo, Koichi Makimura, Yayoi Hasumi, Yayoi Nishiyama, Katsuhisa Uchida, and Hideyo Yamaguchi. 2009. “Candida Auris Sp. Nov., a Novel Ascomycetous Yeast Isolated from the External Ear Canal of an Inpatient in a Japanese Hospital.” Microbiology and Immunology 53(1):41–44.
+* Important because first identification of *C. auris.* 
 Misas, Elizabeth, Nancy A. Chow, Oscar M. Gómez, José F. Muñoz, Juan G. McEwen, Anastasia P. Litvintseva, and Oliver K. Clay. 2020. “Mitochondrial Genome Sequences of the Emerging Fungal Pathogen Candida Auris.” Frontiers in Microbiology 11(October):1–12.
 * Important because established annotation for B8441 mitochondria. However, annotations had errors (e.g., introns).
 
@@ -151,4 +151,4 @@ Association of Public Health Laboratories.
 ARG received poster bursaries from Oxford Nanopore Technologies (UK) in 2019. ARG is on the editorial board of *AIDS*. No other conflicts.
 
 # Feedback
-Please submit feedback as an Issue.
+This is currently a work in progress. Feedback welcomed! Please submit feedback as an Issue.
