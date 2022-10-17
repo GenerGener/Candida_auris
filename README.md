@@ -1,6 +1,6 @@
-# Thanks for stopping by our poster and repo!
+# Thanks for stopping by our Candida_auris repo!
 
-# Candida_auris: Supplemental information on *Candida auris* reference genome patches, current state-of-the-art, and best-practice recommendations
+This repo includes supplemental information on *Candida auris* current state-of-the-art, reference genome patches, and best-practice recommendations.
 
 If referencing this resource, please cite:\
 (1) Alejandro R. Gener and Peera Hemarajata. "Status of public Candida auris whole genome assemblies." American Society 
