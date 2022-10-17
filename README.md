@@ -33,7 +33,7 @@ D: Complete assemblies were often PacBio + Illumina. Sample metadata in NCBI var
 
 # Insights from mitochondrial mapping
 
-## Method
+## Method for *Candida auris* mitochondrial assemblies.
 
 Most reference genomes' assemblies were made without mitochondria. However, despite *C. auris* being haploid compared to other *Candida*, each are eukaryotic. As such, they should have mitochondria. The first paper to comment on the mitochondria of an early reference sequence was Misas et al. 2020. This was used as illustrated in Figure 2 for reference-guided assembly finished with manual curration.
 
@@ -50,9 +50,7 @@ Most reference genomes' assemblies were made without mitochondria. However, desp
 
 An alternative approach might be to convert reads mapping to MT849287.1 to fastq and feed these into a de novo assembly approach. This orthogonal analytical method should yield similar results.
 
-# *Candida auris* mitochondrial assemblies.
-
-Assemblies are available here as .dna files. Assemblies as .dna may be viewed for free with [SnapGene](https://www.snapgene.com). Notable changes to annotations include correcting COX1 and COB introns for the Clade I reference and for other mitochondrial assemblies. These are not introns. They are likely artifacts from interpretting sequencing errors. They are likely deletions in Clade II and V strains. The extent of these deletions has yet to be evaluated, possibly in part to lack of including mitochondrial assemblies in "complete" genomes.
+Assemblies will be made available here as .dna files. Assemblies as .dna may be viewed for free with [SnapGene](https://www.snapgene.com). Notable changes to annotations include correcting COX1 and COB introns for the Clade I reference and for other mitochondrial assemblies. These are not introns. They are likely artifacts from interpretting sequencing errors. They are likely deletions in Clade II and V strains. The extent of these deletions has yet to be evaluated, possibly in part to lack of including mitochondrial assemblies in "complete" genomes.
 
 To annotate assemblies, the B8441 mitochondrial assembly GenBank:MT849287.1 was downloaded as a genbank file and openned with SnapGene (version 6.1.2 HEAD-26640). A new .dna file was created for the consensus called from mapping Illumina reads from SRA to GenBank:MT849287.1 with minimap2 (v2.24-r1122) and calling consensus with a simple script using samtools (v1.12) and bcftools (v1.14-58-g310cd8c). The above is simple and open-source, but does not take into account structural variation (e.g., INDELS). So, these assemblies were corrected manually by comparing their alignments with IGV. See Supplemental figure for example.
 
