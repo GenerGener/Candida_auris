@@ -58,7 +58,8 @@ To annotate assemblies, the B8441 mitochondrial assembly GenBank:MT849287.1 was 
 
 | ![Feature annotation of Clade I reference genome mitochondria.](https://github.com/GenerGener/Candida_auris/blob/main/Candida_auris_Clade_1_mitochondria_draft_v3%20Map.png) |
 |-|
-*Supplemental figure: Feature annotation of Clade I reference genome mitochondria.*
+**Supplemental figure: Feature annotation of Clade I reference genome mitochondria.** 
+Crimson line above black double line represents MT849287.1 mapped to output consensus in addition to manual curration (annotated as miscalleneous features). Red introns are annotation errors that this work corrects. Fuchsia arrows are intronless features. "Introns in COX1 and COB may be deletions in Clade II (COX1) and Clade V (COX1 and COB).
 
 ## Results
 
