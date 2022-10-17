@@ -48,7 +48,7 @@ Most reference genomes' assemblies were made without mitochondria. However, desp
 6: Final asseemblies were annotated in SnapGene based on MT849287.1 (Misas et al. 2020).
 7: Reference set will be made available in public databases.
 
-An alternative approach might be to convert reads mapping to MT849287.1 to fastq and feed these into a de novo assembly approach. This orthogonal method should yield similar results.
+An alternative approach might be to convert reads mapping to MT849287.1 to fastq and feed these into a de novo assembly approach. This orthogonal analytical method should yield similar results.
 
 # *Candida auris* mitochondrial assemblies.
 
