@@ -2,8 +2,7 @@
 
 This repo includes supplemental information on *Candida auris* current state-of-the-art genomics, reference genome patches, and best-practice recommendations.
 
-![Poster PDF here](https://github.com/GenerGener/Candida_auris/blob/main/ASM%20NGS%20v12.pdf)\
-**^Poster PDF available for download here**
+[**Poster PDF here**](https://github.com/GenerGener/Candida_auris/blob/main/ASM%20NGS%20v12.pdf)\
 
 Supplemental info/higher resolution figures below.
 
