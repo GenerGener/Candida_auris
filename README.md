@@ -56,6 +56,8 @@ Assemblies are available here as .dna files. Assemblies as .dna may be viewed fo
 
 To annotate assemblies, the B8441 mitochondrial assembly GenBank:MT849287.1 was downloaded as a genbank file and openned with SnapGene (version 6.1.2 HEAD-26640). A new .dna file was created for the consensus called from mapping Illumina reads from SRA to GenBank:MT849287.1 with minimap2 (v2.24-r1122) and calling consensus with a simple script using samtools (v1.12) and bcftools (v1.14-58-g310cd8c). The above is simple and open-source, but does not take into account structural variation (e.g., INDELS). So, these assemblies were corrected manually by comparing their alignments with IGV.
 
+![Feature annotation of Clade I reference genome mitochondria.]()
+
 ## Results
 
 **Figure 3: Coverage plots of runs passing QC.**
