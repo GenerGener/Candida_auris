@@ -131,7 +131,8 @@ Conclusions: Sequencing methods have improved since *C. auris* was discovered. W
 # References 
 
 Satoh, Kazuo, Koichi Makimura, Yayoi Hasumi, Yayoi Nishiyama, Katsuhisa Uchida, and Hideyo Yamaguchi. 2009. “Candida Auris Sp. Nov., a Novel Ascomycetous Yeast Isolated from the External Ear Canal of an Inpatient in a Japanese Hospital.” Microbiology and Immunology 53(1):41–44.
-* Important because first identification of *C. auris.* 
+* Important because first identification of *C. auris.*
+
 Misas, Elizabeth, Nancy A. Chow, Oscar M. Gómez, José F. Muñoz, Juan G. McEwen, Anastasia P. Litvintseva, and Oliver K. Clay. 2020. “Mitochondrial Genome Sequences of the Emerging Fungal Pathogen Candida Auris.” Frontiers in Microbiology 11(October):1–12.
 * Important because established annotation for B8441 mitochondria. However, annotations had errors (e.g., introns).
 
