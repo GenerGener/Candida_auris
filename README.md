@@ -124,13 +124,12 @@ CGV sessions:\
 **Table 1: Five Recommended C. auris Clade-Specific Reference Genome Assemblies.**
 *Selected by CDC. **Selected by ARG during this study. ***Reads from respective BioProjects were mapped to B8441 mitochondrial reference genome assembly (GenBank:MT849287.1) for consensusing.
 
-## Recommendations
-
-Conclusions: Sequencing methods have improved since *C. auris* was discovered. With the advent of HiFi PB and improved ONT, reference-level assemblies need not rely on short-reads for polishing. Assemblies must have reads for quality assurance. Assemblies without reads have limited utility to the global community. Production-level genomes such as reference-guided consensuses are not interchangeable with de novo and ideally long-read methods. Annotations remain a challenge for both reference and production genomes. Mitogenomes were previously neglected, and the scope of their diversity is unknown. They are small enough to visually inspect, and can in theory be used to support clade assignment (Sekizuka et al. 2019). Future work could determine the extent of inter- and intraclade mitochondrial variability. Reference-guided approaches should use references with mitochondrial chromosomes. The present work developed patches to the 5 recommended clade-specific reference genomes, and helped standardize the clade reference set. 
-
 ## Clade-specific reference genome chromosome orientation
 
 Given the CDC's proclivity for Clade I as a species reference, I (ARG) think it makes sense to retain this reference's nuclear chromosomal orientation. To facilitate the annotation of the remaining clade-specific references, some of the chromosome's of those references should be updated by inverting (reverse-complementing). This should be done for Clade II 1st, 2nd, 3rd, 5th largest chromosome; Clade III 1st, 2nd, 3rd largest chromosomes; Clade IV 1st and 2nd largest chromosomes, and Clade V 1st, 3rd, 4th, and 7th largest chromosomes. Mitochondrial patches for Clade I-V reference genomes were made based on the orientation of B8441; their orientation is therefore already homogenized.
+
+# Conclusions
+Sequencing methods have improved since *C. auris* was discovered. With the advent of HiFi PB and improved ONT, reference-level assemblies need not rely on short-reads for polishing. Assemblies must have reads for quality assurance. Assemblies without reads have limited utility to the global community. Production-level genomes such as reference-guided consensuses are not interchangeable with *de novo* and ideally long-read methods. Annotations remain a challenge for both reference and production genomes. Mitogenomes were previously neglected, and the scope of their diversity is unknown. They are small enough to visually inspect, and can in theory be used to support clade assignment (Sekizuka et al. 2019). Future work could determine the extent of inter- and intraclade mitochondrial variability. Reference-guided approaches should use references with mitochondrial chromosomes. The present work developed patches to the 5 recommended clade-specific reference genomes, and helped standardize the clade reference set. 
 
 # References 
 
