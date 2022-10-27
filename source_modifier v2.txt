@@ -1,0 +1,6 @@
+Sequence_ID	Strain
+Cau_Clade_1_mito_v4	B11205
+Cau_Clade_2_mito_v2	B11220
+Cau_Clade_3_mito_v1	B120378
+Cau_Clade_4_mito_v1	B12342
+Cau_Clade_5_mito_v1	IFRC2087
